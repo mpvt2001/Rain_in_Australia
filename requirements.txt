@@ -1,0 +1,20 @@
+The project has been carried out using Google Collab. Other options are: Python, jupyter notebook.
+
+
+In order to be able to execute the code provided, the following libraries must be installed:
+
+#basic linalg and data reading/handling libraries
+- numpy
+- pandas
+
+#for plotttings
+- matplotlib.pyplot
+- seaborn
+- dython
+
+#for studying models and preprocessing
+- sklearn
+
+#to save datasets created
+- os
+- pickle
