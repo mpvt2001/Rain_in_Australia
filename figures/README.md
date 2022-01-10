@@ -1,2 +1,3 @@
 In this folder you can find all the figures created along the study of the originaln dataset. You may find heatmaps, boxplots, histogram...
+
 The initial number of the name of the figures indicates in which file from the notebook folder it appears. 
