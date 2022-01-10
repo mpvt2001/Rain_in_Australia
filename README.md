@@ -55,6 +55,8 @@ There is also correlation between numerical and categorical variables sucha as `
 |BaggingClassifier|0.833819|0.820528|0.823412|
 |GradientBoostingClassifier|0.845072|0.844228|0.844228|
 
+· Confusion matrix have been studied
+
 ## Crossvalidation
 By looking at model slecteion and after doing cross validation with the same models, we can conclude there's not a significant difference between the different scale methods of the data in this dataset. The model that has returned better results are ```RandomForestClassifier()``` and ```XGBoostClassifier()```.
 
