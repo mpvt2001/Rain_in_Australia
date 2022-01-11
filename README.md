@@ -77,5 +77,3 @@ The method used has been ```RadomizedSearchCV()```. Only some models have been s
 The previous analysis of the data allows us to predict our target variable RainTomorrow and a lot has been learned from it. Nevertheless, there are som aspect that could have been studied in order to obtain better results and learn more from the data provided.
 First of all, with more time, more models can be studied. Moreover, in the hyperparameter search it is possible tu use other ways to find them such as GridSearchCV and also increase the variety and quantity of parameters given in order to find the best match.
 Finally, another aspect that can be studied are temporal series, these can help understand in more detail if raining has usually the smae distribution throuugh the years or not.
-
-Australian weather. RainTomorrow is the target variable.
